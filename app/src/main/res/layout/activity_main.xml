@@ -14,7 +14,11 @@
         android:layout_height="wrap_content"
         android:text="Change Text" />
 
-
+    <Button
+        android:id="@+id/buttonChangeColor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Change Color" />
 
     <TextView
         android:id="@+id/textView"
